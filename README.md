@@ -75,3 +75,12 @@ unchanged after the single run. A commit date does not establish pre-registratio
 ordering; the OpenTimestamps proof does.
 
 License: MIT (see LICENSE).
+
+The Oddvane research program
+
+Part of a set of pre-registered, falsification-first studies of how prediction markets move and how well they're calibrated — published whether or not the result is exciting (so far, mostly not — which is the point).
+
+- [Oddvane-study-A](https://github.com/DJdover/Oddvane-study-A) — cross-venue lead-lag on championship futures. No robust lead.
+- [Oddvane-study-A2](https://github.com/DJdover/Oddvane-study-A2) — cross-venue lead-lag on 871 live in-game markets. No robust lead.  (this repo)
+- [Oddvane-study-D](https://github.com/DJdover/Oddvane-study-D) — cross-venue "who's right" calibration edge. No edge; the venues are equally calibrated.
+- [Vigil](https://github.com/DJdover/Vigil) — the pre-registration + falsification discipline these studies run on, as a reusable tool.
