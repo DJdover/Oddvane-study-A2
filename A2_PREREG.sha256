@@ -1,0 +1,7 @@
+SHA-256 of A2_PREREG.md. This published file is BYTE-IDENTICAL to the pre-registration
+that was OpenTimestamps-stamped on 2026-06-04T21:38:28Z UTC, BEFORE any full-season
+tape was pulled (P7 pinned to the numeric R<=2.00). No redaction was needed — the file
+contains no private content — so the public hash below EQUALS the timestamped hash, and
+the included A2_PREREG.md.ots proof applies directly to this file. Verified unchanged
+post-run.
+61fc5784ab3d8bf9a98389d80bd57d14cc3701702beff2b0f117e13a0796788d  A2_PREREG.md
